@@ -1,0 +1,9 @@
+pandas==3.0.5
+numpy==2.5.2
+scikit-learn==1.9.0
+scipy==1.18.0
+matplotlib==3.11.1
+boto3==1.43.72
+jupyterlab==4.6.3
+nbconvert==7.17.1
+ipykernel==7.3.0

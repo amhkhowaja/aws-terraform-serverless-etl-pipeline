@@ -16,7 +16,7 @@ mkdir -p "$PACKAGE_DIR"
   --implementation cp \
   --target "$PACKAGE_DIR" \
   --quiet \
-  pandas numpy
+  -r lambda/requirements.txt
 
 cp lambda/process_data.py "$PACKAGE_DIR/"
 
