@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+*.tfplan
+terraform/build/
+
+catboost_info/
+.ipynb_checkpoints/

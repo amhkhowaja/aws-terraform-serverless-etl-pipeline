@@ -1,0 +1,491 @@
+car_ID,CarName,ownername,owneremail,dealershipaddress,saledate,iban,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,wheelbase,color,carlength,carwidth,carheight,curbweight,cylindernumber,enginesize,compressionratio,horsepower,peakrpm,citympg,highwaympg,Price
+1,toyota corolla,Matthew Hernandez,matthew.hernandez@gmail.com,"96559 Moore Street
+Penningtonchester, NJ 99785",2016-11-23,GB84TJXJ3114**********,diesel,std,four,hatchback,fwd,front,95.7,yellow,166.3,64.4,52.8,2275,4.0,110,22.5,56.0,4500,38,47,7788.0
+2,toyota carina,Megan Sanchez,megan.sanchez@gmail.com,"18399 House Village Apt. 697
+Lake Amberburgh, RI 58039",2020-08-11,GB13IBBH0818**********,gas,std,four,wagon,4wd,front,95.7,purple,169.7,63.6,59.1,3110,4.0,92,9.0,62.0,4800,27,32,8778.0
+3,toyota corolla,Sarah Lawrence,sarahlawrence@gmail.com,"79775 Anne Way
+East Ashley, GU 04171",2018-06-26,GB07IVPZ1581**********,gas,std,two,hatchback,rwd,front,98.4,navy,176.2,65.6,52.0,2714,4.0,146,9.3,116.0,4800,24,30,11549.0
+4,toyota corona,Debra Juarez,debra.juarez@hotmail.com,"540 Allen Lane
+Lake Randy, ME 90623",2018-07-24,GB69IASI9434**********,gas,std,two,hatchback,rwd,front,102.9,fuchsia,183.5,67.7,52.0,3016,6.0,171,9.3,161.0,5200,19,24,15998.0
+5,nissan otti,Michael Harvey,michaelharvey@gmail.com,"5519 Krause Station Apt. 935
+West Frederickhaven, FL 29600",2022-02-10,GB33TRRF7833**********,gas,std,four,sedan,fwd,front,100.4,yellow,184.6,66.5,55.1,3060,6.0,181,9.0,152.0,5200,19,25,13499.0
+6,nissan gt-r,Cody Murray,cody.murray@yahoo.com,"074 Jones Rue
+Paigebury, PR 27118",2016-02-17,GB93CYKM8701**********,diesel,std,two,sedan,fwd,front,94.5,aqua,165.3,63.8,54.5,2017,4.0,103,21.9,55.0,4800,45,50,7099.0
+7,buick opel isuzu deluxe,Stacy Mcgee,stacymcgee@gmail.com,"77966 Phillips Branch
+Mitchellburgh, NH 50697",2016-09-25,GB85FTHO9933**********,gas,std,four,sedan,rwd,front,115.6,green,202.6,71.7,56.5,3740,8.0,234,8.3,155.0,4750,16,18,34184.0
+8,audi 5000s (diesel),Charlotte Ford,charlotte.ford@hotmail.com,"00257 Denise Expressway
+Joseshire, WY 62443",2020-04-26,GB49XQGP9851**********,gas,turbo,two,hatchback,4wd,front,99.5,fuchsia,178.2,67.9,52.0,3053,5.0,131,7.0,160.0,5500,16,22,17859.167
+9,saab 99le,Kevin Anderson,kevin.anderson@gmail.com,"259 Kenneth Road Apt. 074
+Ambertown, NM 30954",2021-11-20,GB27JKWQ7285**********,gas,std,two,hatchback,fwd,front,99.1,teal,186.6,66.5,56.1,2707,4.0,121,9.3,110.0,5250,21,28,15040.0
+10,bmw x4,Danielle Hardin,danielle.hardin@hotmail.com,"308 Craig Isle
+Shannonchester, MT 59565",2016-05-25,GB95KQPD7151**********,gas,std,four,sedan,rwd,front,103.5,yellow,189.0,66.9,55.7,3230,6.0,209,8.0,182.0,5400,16,22,30760.0
+11,mazda 626,Yolanda Rodriguez,yolanda.rodriguez@hotmail.com,"359 Michael Expressway
+Krausechester, PW 77508",2019-03-20,GB91ZQME5837**********,gas,std,two,hatchback,fwd,front,98.8,fuchsia,177.8,66.5,53.7,2385,4.0,122,8.6,84.0,4800,26,32,8845.0
+12,maxda glc deluxe,Chelsea Montgomery,chelseamontgomery@yahoo.com,"819 Patricia Lights Apt. 816
+Stevenland, CA 21456",2015-07-11,GB86NCCH2404**********,gas,std,two,hatchback,fwd,front,93.1,olive,159.1,64.2,54.1,1900,4.0,91,9.0,68.0,5000,31,38,6095.0
+13,mitsubishi outlander,Timothy Wright,timothy.wright@yahoo.com,"1571 Peck Rest
+Silvamouth, MP 91276",2017-06-08,GB58VVRK9300**********,gas,std,two,hatchback,fwd,front,93.7,black,157.3,64.4,50.8,2004,4.0,92,9.4,68.0,5500,31,38,6669.0
+14,peugeot 505s turbo diesel,Patricia Perez,patriciaperez@hotmail.com,"1038 Rick Ramp Apt. 644
+West Jennaview, AL 68537",2021-06-20,GB11EZKS1084**********,diesel,turbo,four,wagon,rwd,front,114.2,teal,198.9,68.4,58.7,3485,4.0,152,21.0,95.0,4150,25,25,17075.0
+15,nissan dayz,Arthur Terrell,arthur.terrell@gmail.com,"0071 Contreras Crossing
+North Laurieport, MI 20051",2015-01-28,GB91NKVM0161**********,gas,std,four,sedan,fwd,front,100.4,aqua,181.7,66.5,55.1,3095,6.0,181,9.0,152.0,5200,17,22,13499.0
+16,peugeot 604sl,Bryan Garcia,bryan.garcia@gmail.com,"187 Sharon Knoll Apt. 003
+New Kristopherport, GU 60428",2020-07-03,GB26SHFD4125**********,diesel,turbo,four,sedan,rwd,front,107.9,green,186.7,68.4,56.7,3252,4.0,152,21.0,95.0,4150,28,33,16900.0
+17,subaru r2,Joseph Hernandez,josephhernandez@hotmail.com,"5518 Brown Square
+West Elizabethview, KS 00539",2015-09-09,GB70LEMX1611**********,gas,turbo,four,sedan,4wd,front,97.0,maroon,172.0,65.4,54.3,2510,4.0,108,7.7,111.0,4800,24,29,11259.0
+18,bmw x3,Laura Nguyen,lauranguyen@gmail.com,"3420 Michael Spurs Apt. 168
+Lake Seth, CT 24134",2019-07-06,GB63UHBQ4860**********,gas,std,four,sedan,rwd,front,101.2,blue,176.8,64.8,54.3,2765,6.0,164,9.0,121.0,4250,21,28,21105.0
+19,plymouth fury iii,Amanda Garcia,amanda.garcia@hotmail.com,"Unit 0687 Box 7985
+DPO AP 19390",2020-02-18,GB66QOKT4325**********,gas,std,two,hatchback,fwd,front,93.7,maroon,157.3,63.8,50.8,1918,4.0,90,9.4,68.0,5500,37,41,5572.0
+20,porsche macan,Bryan Herrera,bryanherrera@hotmail.com,"1889 Kelly Lakes Apt. 788
+Lisafurt, TN 39997",2022-03-24,GB52SPCX2820**********,gas,std,two,hatchback,rwd,front,94.5,silver,168.9,68.3,50.2,2778,4.0,151,9.5,143.0,5500,19,27,22018.0
+21,plymouth fury iii,Aaron Morse,aaron.morse@hotmail.com,"50942 Martinez Fort
+Lake Calebstad, NJ 77009",2022-01-26,GB88NYWC0467**********,gas,std,four,hatchback,fwd,front,93.7,blue,157.3,63.8,50.6,1967,4.0,90,9.4,68.0,5500,31,38,6229.0
+22,mazda glc deluxe,Melinda Foster,melindafoster@yahoo.com,"24853 Monica Views
+Taylorside, AS 61849",2021-04-14,GB30XCAY9823**********,diesel,std,four,sedan,fwd,front,98.8,maroon,177.8,66.5,55.5,2443,4.0,122,22.7,64.0,4650,36,42,10795.0
+23,nissan gt-r,Amanda Coleman,amanda.coleman@gmail.com,"10569 Joseph Loaf
+East Barbara, ID 79229",2020-06-03,GB55QXIK2967**********,diesel,std,two,sedan,fwd,front,94.5,green,165.3,63.8,54.5,2017,,103,21.9,55.0,4800,45,50,7103.0
+24,mazda rx2 coupe,Michael Baker,michaelbaker@hotmail.com,"18882 Whitney Haven
+West Daniellestad, CT 79376",2017-02-08,GB93NFHI5547**********,gas,std,two,hatchback,fwd,front,93.1,lime,159.1,64.2,54.1,1905,4.0,91,9.0,68.0,5000,31,38,6795.0
+25,toyota starlet,Michael Chen,michael.chen@hotmail.com,"751 Christina Branch
+Lake Tracie, MA 80332",2020-03-24,GB90LIXU5626**********,gas,std,four,sedan,rwd,front,104.5,white,187.8,66.5,54.1,3131,6.0,171,9.2,156.0,5200,20,24,15690.0
+26,peugeot 504,Kristy Marshall,kristy.marshall@hotmail.com,"6121 Hannah Mountain Suite 607
+Port William, LA 50243",2015-02-14,GB05UOCB6550**********,gas,std,four,wagon,rwd,front,114.2,yellow,,68.4,56.7,3285,4.0,120,8.4,95.0,5000,19,24,16761.0
+27,toyota corolla liftback,Lindsey Wilson,lindsey.wilson@yahoo.com,"Unit 4724 Box 3793
+DPO AE 57108",2018-01-17,GB59MRYD8715**********,gas,std,two,hatchback,rwd,front,102.9,purple,183.5,67.7,52.0,2976,6.0,171,9.3,161.0,5200,20,24,16558.0
+28,buick century special,Theresa Barrera,theresa.barrera@gmail.com,"7241 Bradley Ford Suite 979
+Leemouth, PR 50844",2021-10-10,GB68AMCJ2882**********,gas,std,four,sedan,rwd,front,120.9,gray,208.1,71.7,56.7,3900,8.0,308,8.0,184.0,4500,14,16,40960.0
+29,toyota corolla,Tami Harrison,tami.harrison@hotmail.com,"505 Dyer Hollow Apt. 508
+South Elizabeth, TX 32466",2021-06-07,GB10WGAY6884**********,gas,std,two,hardtop,rwd,front,98.4,aqua,176.2,65.6,52.0,2536,4.0,146,9.3,116.0,4800,24,30,9639.0
+30,honda civic (auto),Paul Hanson,paul.hanson@yahoo.com,"64321 Murphy Branch
+West Kenneth, NJ 41290",2018-08-04,GB20JWHJ6276**********,gas,std,two,sedan,fwd,front,96.5,olive,169.1,66.0,51.0,2293,4.0,110,9.1,100.0,5500,25,31,10345.0
+31,toyota corona mark ii,James Adams,james.adams@gmail.com,"216 Johnson Valleys Apt. 517
+Nortonberg, MH 43629",2016-10-23,GB09FSFD8610**********,gas,std,two,hatchback,fwd,front,95.7,green,158.7,63.6,54.5,1985,4.0,92,9.0,62.0,4800,35,39,5348.0
+32,toyota corolla tercel,Linda Mckenzie,lindamckenzie@yahoo.com,"0677 Rogers Gateway Suite 556
+Lake Leslie, UT 35045",2018-06-16,GB06ZNFA3703**********,gas,std,two,hatchback,rwd,front,94.5,green,168.7,64.0,52.6,2300,4.0,98,9.4,112.0,6600,26,29,9538.0
+33,toyota corona,Nicole Cole,nicole.cole@hotmail.com,"50114 Valerie Court Suite 180
+West Josephland, MA 74482",2020-01-03,GB44EKWE6601**********,gas,std,two,hatchback,fwd,front,95.7,silver,158.7,63.6,54.5,2040,,92,9.0,62.0,4800,31,38,6288.0
+34,toyota corona hardtop,Sarah Hayden,sarah.hayden@gmail.com,"238 Lisa Summit Apt. 534
+Lake Steven, CO 23824",2016-06-02,GB36HFWA8342**********,gas,std,four,wagon,fwd,front,95.7,blue,169.7,63.6,59.1,2280,4.0,92,9.0,62.0,4800,31,37,6906.0
+35,subaru dl,John Wright,johnwright@hotmail.com,"43339 Williams Center
+Guzmanfurt, WA 68264",2017-07-14,GB06QURJ0020**********,gas,std,two,hatchback,fwd,front,93.7,black,157.9,63.6,53.7,2120,4.0,108,8.7,73.0,4400,26,31,7053.0
+36,mitsubishi montero,Mark Mack,mark.mack@yahoo.com,"USCGC George
+FPO AA 59295",2015-01-31,GB06JHZK2510**********,gas,std,four,sedan,fwd,front,96.3,yellow,172.4,65.4,51.6,2365,4.0,122,8.5,88.0,5000,25,32,6989.0
+37,toyota corona hardtop,Shelly Brooks,shellybrooks@hotmail.com,"590 David Plains Apt. 940
+Conleyton, MD 37528",2020-08-18,GB49JPXN1147**********,gas,std,four,wagon,fwd,front,95.7,silver,169.7,63.6,59.1,2280,4.0,92,9.0,62.0,4800,31,37,6918.0
+38,saab 99le,Seth Willis,sethwillis@gmail.com,"051 Christina Plaza Apt. 402
+Debraport, IA 64855",2020-07-09,GB98YZIU1889**********,gas,std,four,sedan,fwd,front,99.1,yellow,186.6,66.5,56.1,2695,4.0,121,9.3,110.0,5250,21,28,12170.0
+39,honda accord lx,Mikayla Cain,mikaylacain@gmail.com,"3615 Baker Lock
+Davidchester, GU 06995",2015-04-26,GB12REEB6844**********,gas,std,four,sedan,fwd,front,96.5,gray,163.4,64.0,54.5,2010,4.0,92,9.2,76.0,6000,30,34,7295.0
+40,,Christine Wolfe,christinewolfe@hotmail.com,"536 Ballard Walk Apt. 411
+Burnsmouth, NH 33589",2022-02-23,GB85UIZW9072**********,,std,four,,fwd,front,102.4,black,,66.5,53.9,2414,4.0,122,8.7,,4200,27,32,10057.0
+41,toyota corona liftback,Bonnie Pennington,bonniepennington@gmail.com,"PSC 1705, Box 4253
+APO AP 11358",2015-01-30,GB73ZAUP4426**********,gas,std,two,hardtop,rwd,front,98.4,maroon,176.2,65.6,52.0,2540,4.0,146,9.3,116.0,4800,24,30,8449.0
+42,mitsubishi mirage g4,Teresa Fleming,teresafleming@gmail.com,"52090 Williams Station
+West Lawrence, FM 41499",2022-08-26,GB03KGFO7201**********,gas,std,four,sedan,fwd,front,96.3,blue,172.4,65.4,51.6,2403,4.0,110,7.5,116.0,5500,23,30,9204.0
+43,toyota corolla,Jerry Gallegos,jerrygallegos@gmail.com,"1464 Franklin Road
+Raymouth, RI 00656",2018-11-14,GB04XWNN1482**********,gas,std,four,hatchback,fwd,front,95.7,yellow,,64.4,52.8,2122,4.0,98,9.0,70.0,4800,28,34,8225.0
+44,plymouth satellite custom (sw),Jaclyn Evans,jaclynevans@hotmail.com,"08046 Mary Courts
+Roymouth, MD 55440",2019-04-10,GB68FBUJ9132**********,gas,std,four,sedan,fwd,front,93.7,teal,167.3,63.8,50.8,1989,4.0,90,9.4,68.0,5500,31,38,6692.0
+45,buick century,Jaime Ramos,jaime.ramos@gmail.com,"462 Rachel Unions Suite 044
+Lake Christopher, NE 77340",2021-05-03,GB26IVXQ1084**********,diesel,turbo,two,hardtop,rwd,front,106.7,white,187.5,70.3,54.9,3495,,183,21.5,123.0,4350,22,25,28615.0
+46,chevrolet monte carlo,Christian Copeland,christian.copeland@gmail.com,"17275 Black Village
+West Lindsayborough, AK 76917",2016-06-17,GB32WZUT7441**********,gas,std,two,hatchback,fwd,front,94.5,purple,155.9,63.6,52.0,1874,4.0,90,9.6,70.0,5400,38,43,6295.0
+47,,Carla Torres,carla.torres@gmail.com,"0577 Scott Union
+Lake Andrewside, OK 00781",2017-11-07,GB14SOKN8944**********,,std,four,,fwd,,103.3,white,174.6,64.6,59.8,2535,4.0,122,8.5,,5000,24,30,8949.0
+48,toyota corolla 1200,Mark Brown,markbrown@hotmail.com,"578 Compton Junction
+Port Angelachester, UT 68507",2022-07-11,GB61OIRF3768**********,gas,std,four,hatchback,fwd,front,95.7,silver,158.7,63.6,54.5,2015,4.0,92,9.0,62.0,4800,31,38,6488.0
+49,subaru,Gary Moore,garymoore@hotmail.com,"977 Parks Unions Suite 715
+Cunninghamburgh, DE 04936",2021-10-20,GB03SFZQ5934**********,gas,std,two,hatchback,fwd,front,93.7,black,156.9,63.4,53.7,2050,4.0,97,9.0,69.0,4900,31,36,5118.0
+50,subaru dl,Robert Stevenson,robert.stevenson@gmail.com,"700 Harry Crossroad Apt. 092
+Jillianland, FM 00655",2020-09-04,GB07LNYZ2199**********,gas,std,four,wagon,4wd,front,96.9,black,173.6,65.4,54.9,2420,4.0,108,9.0,82.0,4800,23,29,8013.0
+51,mitsubishi lancer,Edward Barrera,edwardbarrera@hotmail.com,"1924 John Stravenue Apt. 135
+Weaverfort, FL 50340",2017-03-28,GB74WJEQ6420**********,gas,std,two,hatchback,fwd,front,93.7,gray,157.3,64.4,50.8,1944,4.0,92,9.4,68.0,5500,31,38,6189.0
+52,chevrolet vega 2300,Jason Thompson,jason.thompson@yahoo.com,"3499 Harris Bridge Apt. 382
+Claytonshire, GA 14507",2016-01-23,GB49MPCK0133**********,gas,std,four,sedan,fwd,front,94.5,lime,158.8,63.6,52.0,1909,4.0,90,9.6,70.0,5400,38,43,6575.0
+53,buick skyhawk,Bradley Diaz,bradleydiaz@yahoo.com,"1791 Weaver Plaza
+Michaelbury, VI 73323",2019-08-31,GB03WCPI0323**********,diesel,turbo,four,sedan,rwd,front,115.6,navy,202.6,71.7,56.3,3770,5.0,183,21.5,123.0,4350,22,25,31600.0
+54,nissan clipper,Randy Matthews,randy.matthews@hotmail.com,"34154 Michael Streets
+Martinezburgh, OR 89722",2022-05-15,GB02ZRWC0851**********,gas,std,two,hardtop,fwd,front,95.1,blue,162.4,63.8,53.3,2008,4.0,97,9.4,69.0,5200,31,37,8249.0
+55,jaguar xf,Jennifer Webster,jenniferwebster@yahoo.com,"75581 James Cliff
+Ryanmouth, WI 40564",2020-11-10,GB75XVEH8641**********,gas,std,four,sedan,rwd,front,113.0,yellow,199.6,69.6,52.8,4066,6.0,258,8.1,176.0,4750,15,19,35550.0
+56,toyota corolla 1200,Tonya Thomas,tonya.thomas@gmail.com,"92165 Jimenez Meadows
+Codyfort, HI 59740",2017-03-14,GB47MFIO7586**********,gas,std,four,hatchback,fwd,front,95.7,yellow,166.3,64.4,52.8,2109,4.0,98,9.0,70.0,4800,30,37,7198.0
+57,saab 99e,Sean Miller,seanmiller@yahoo.com,"018 Weaver Turnpike
+New Angelatown, NM 49527",2017-08-26,GB38TXVX6006**********,gas,std,two,hatchback,fwd,front,99.1,olive,186.6,66.5,56.1,2658,4.0,121,9.31,110.0,5250,21,28,12148.0
+58,toyota starlet,Andrea Romero,andrearomero@hotmail.com,"25710 Hughes Rapids Apt. 328
+Coxburgh, DC 72547",2019-10-26,GB15FHYC2928**********,gas,std,four,sedan,rwd,,104.5,teal,187.8,66.5,54.1,3131,,171,9.2,156.0,5200,20,24,15805.0
+59,subaru r1,Amy Wright,amywright@gmail.com,"PSC 7034, Box 4934
+APO AA 66305",2022-10-30,GB88IEAV1799**********,gas,std,four,sedan,4wd,front,97.0,teal,172.0,65.4,54.3,2385,4.0,108,9.0,82.0,4800,24,25,9233.0
+60,bmw x3,Calvin Meyer,calvinmeyer@gmail.com,"4415 Duncan Divide
+Bruceville, NM 79945",2021-08-11,GB36KUDO5820**********,gas,std,four,sedan,rwd,front,101.2,fuchsia,176.8,64.8,54.3,2765,6.0,164,9.0,121.0,4250,21,28,21331.0
+61,honda accord cvcc,Gary Dorsey,garydorsey@yahoo.com,"286 Anthony Mountain
+South Thomas, VA 56887",2016-05-29,GB55YUXN3992**********,gas,std,two,hatchback,fwd,front,93.7,white,150.0,64.0,52.6,1940,4.0,92,9.2,76.0,6000,30,34,6529.0
+62,,Theresa Harvey,theresaharvey@hotmail.com,"48653 Wanda Path Apt. 794
+Ramirezbury, MP 36241",2022-09-06,GB94PTWO0849**********,,std,two,,rwd,front,95.3,maroon,,65.7,49.6,2380,,70,9.4,,6000,17,23,11018.0
+63,,Carla Ramirez,carlaramirez@gmail.com,"05482 Rivera Throughway
+Woodsberg, WA 14949",2022-10-31,GB15SOSF2339**********,,std,four,,fwd,front,97.0,white,,65.4,53.0,2455,,108,9.0,,5200,25,31,10080.0
+64,saab 99e,Melissa Haas,melissa.haas@hotmail.com,"131 Mark Estate Apt. 452
+West Tyler, VI 14377",2015-05-01,GB72LNQI7447**********,gas,std,two,hatchback,fwd,front,99.1,fuchsia,186.6,66.5,56.1,2658,4.0,121,9.31,110.0,5250,21,28,11850.0
+65,vw dasher,Michael Mueller,michael.mueller@gmail.com,"4374 Sanders Manor
+Simsland, FL 96948",2019-11-25,GB32TDHU0216**********,gas,std,two,convertible,fwd,,94.5,yellow,159.3,64.2,55.6,2254,4.0,109,8.5,90.0,5500,24,29,11353.0
+66,toyota celica gt,Robert Hoffman,robert.hoffman@yahoo.com,"7076 Welch Mount Apt. 275
+Moorechester, VA 54994",2021-02-21,GB11DKRU0259**********,diesel,turbo,four,sedan,fwd,front,102.4,fuchsia,175.6,66.5,54.9,2480,4.0,110,22.5,73.0,4500,30,33,10698.0
+67,audi 100ls,Amanda Frost,amandafrost@gmail.com,"41500 Tonya Port
+East Jennifer, AL 37176",2020-03-28,GB37NPQE5828**********,gas,std,four,sedan,4wd,front,99.4,fuchsia,176.6,66.4,54.3,2824,5.0,136,8.0,115.0,5500,18,22,17450.0
+68,volvo 144ea,Kimberly Gross,kimberly.gross@gmail.com,"6535 Kristie Glens Apt. 971
+Andersontown, MS 52970",2015-02-07,GB65HYFX1443**********,gas,turbo,four,sedan,rwd,front,109.1,yellow,188.8,68.8,55.5,3049,4.0,141,8.7,160.0,5300,19,25,19045.0
+69,isuzu D-Max ,Tiffany Moore,tiffany.moore@gmail.com,"6539 Romero Lakes
+Lake Amanda, KY 45561",2019-02-05,GB78TYMC8084**********,gas,std,two,hatchback,rwd,front,96.0,lime,172.6,65.2,51.4,2734,4.0,119,9.2,90.0,5000,24,29,11048.0
+70,toyota mark ii,Christopher Carroll,christophercarroll@hotmail.com,"3675 Autumn Grove Apt. 966
+Stevenville, GA 48751",2019-04-27,GB37IOWK5201**********,gas,std,four,sedan,fwd,front,95.7,maroon,166.3,64.4,52.8,2140,4.0,98,9.0,70.0,4800,28,34,9258.0
+71,porsche boxter,Victor Foster,victorfoster@hotmail.com,"80181 Oconnor Ville Apt. 272
+Franciscomouth, DE 31251",2016-08-18,GB59HNXS4709**********,gas,std,two,convertible,rwd,rear,89.5,blue,168.9,65.0,51.6,2800,6.0,194,9.5,207.0,5900,17,25,37028.0
+72,alfa-romero stelvio,Jenna Perez,jennaperez@yahoo.com,"465 Pena Well
+Port Robert, KY 54700",2017-01-18,GB98WNSD8879**********,gas,std,two,convertible,rwd,front,88.6,olive,168.8,64.1,48.8,2548,4.0,130,9.0,111.0,5000,21,27,16500.0
+73,nissan latio,Teresa Patel,teresapatel@gmail.com,"072 Rodriguez Glens Apt. 768
+Manningberg, ND 92150",2019-08-26,GB82FHDA8811**********,gas,std,four,sedan,fwd,front,94.5,white,165.3,63.8,54.5,1971,4.0,97,9.4,69.0,5200,31,37,7499.0
+74,mazda glc custom l,Toni Gilmore,tonigilmore@yahoo.com,"408 Donna Square
+Jasonhaven, SD 51629",2017-01-13,GB34BNDW5550**********,gas,std,four,sedan,fwd,front,98.8,olive,177.8,66.5,55.5,2410,4.0,122,8.6,84.0,4800,26,32,8495.0
+75,volvo 145e (sw),Denise Rasmussen,denise.rasmussen@gmail.com,"8592 Hannah Lights Suite 587
+Cookmouth, AL 23711",2019-09-05,GB59YCCN6660**********,gas,std,four,sedan,rwd,front,109.1,black,188.8,68.9,55.5,2952,4.0,141,9.5,114.0,5400,23,28,16845.0
+76,volvo 244dl,Kayla Chavez,kaylachavez@yahoo.com,"428 Courtney Spring Apt. 896
+Alexandraport, OK 02288",2022-04-29,GB27SOBI9913**********,gas,std,four,sedan,rwd,front,109.1,teal,188.8,68.9,55.5,3012,6.0,173,8.8,134.0,5500,18,23,21485.0
+77,volvo 144ea,Amber Foster,amberfoster@hotmail.com,"04805 Courtney Meadows
+Parrishview, UT 43264",2016-07-12,GB65GDGC8690**********,gas,std,four,wagon,rwd,front,104.3,purple,188.8,67.2,57.5,3034,4.0,141,9.5,114.0,5400,23,28,13415.0
+78,alfa-romero giulia,Victor Walters,victor.walters@yahoo.com,"2339 Smith Extension
+Michaelmouth, WI 33719",2021-01-05,GB45MVEY4545**********,gas,std,two,convertible,rwd,front,88.6,silver,168.8,64.1,48.8,2548,4.0,130,9.0,111.0,5000,21,27,13495.0
+79,peugeot 504,Joyce Hardy,joycehardy@yahoo.com,"4420 Paula Forest
+Elizabethville, CT 58257",2017-03-03,GB47DWTS2204**********,gas,std,four,wagon,rwd,front,114.2,yellow,198.9,68.4,56.7,3285,4.0,120,8.4,95.0,5000,19,24,16695.0
+80,toyota mark ii,Ann Burton,ann.burton@hotmail.com,"31176 Kathryn Port Apt. 972
+Hubbardborough, SD 58523",2016-04-04,GB07ILAB7253**********,gas,std,four,hatchback,fwd,front,102.4,lime,175.6,66.5,53.9,2458,4.0,122,8.7,92.0,4200,27,32,11248.0
+81,toyota corolla,Dana Russell,dana.russell@gmail.com,"040 Anna Alley
+Eddiemouth, NC 53632",2019-09-26,GB93PUGD0538**********,gas,std,four,hatchback,fwd,front,95.7,teal,166.3,64.4,52.8,2122,4.0,98,9.0,70.0,4800,28,34,8358.0
+82,mitsubishi g4,Michael Levy,michaellevy@gmail.com,"PSC 5849, Box 4787
+APO AE 48348",2020-03-15,GB87ZIHB8628**********,gas,turbo,two,hatchback,fwd,front,93.0,blue,157.3,63.8,50.8,2145,4.0,98,7.6,102.0,5500,24,30,7689.0
+83,dodge colt (sw),Gabrielle Jenkins,gabrielle.jenkins@yahoo.com,"PSC 2735, Box 8508
+APO AA 02748",2016-08-30,GB15TGQX1097**********,gas,std,four,sedan,fwd,front,93.7,navy,157.3,63.8,50.6,1989,4.0,90,9.4,68.0,5500,31,38,7609.0
+84,nissan fuga,Stephen Galvan,stephen.galvan@yahoo.com,"3970 Allison Streets
+Ballardton, VI 23168",2017-11-13,GB59MPTW3409**********,gas,std,four,wagon,fwd,front,100.4,gray,184.6,66.5,56.1,3296,6.0,181,9.0,152.0,5200,17,22,14399.0
+85,audi fox,Christopher Johnson,christopherjohnson@yahoo.com,"174 Lin Isle
+Torresberg, CA 18470",2018-05-06,GB83PWXP0855**********,gas,std,two,sedan,fwd,front,99.8,white,177.3,66.3,53.1,2507,5.0,136,8.5,110.0,5500,19,25,15250.0
+86,plymouth cricket,Patrick Franco,patrick.franco@gmail.com,"947 Kaitlyn Underpass Suite 083
+West Mary, LA 76368",2017-04-20,GB43FXUX3886**********,gas,turbo,two,hatchback,fwd,front,93.7,maroon,157.3,63.8,50.8,2128,4.0,98,7.6,102.0,5500,24,30,7957.0
+87,honda civic 1300,Kayla Cox,kaylacox@hotmail.com,"367 Julie Hollow Suite 741
+West Courtney, IN 14272",2018-07-15,GB04PAQM8904**********,gas,std,two,hatchback,fwd,front,96.5,black,167.5,65.2,53.3,2289,4.0,110,9.0,86.0,5800,27,33,9095.0
+88,volkswagen model 111,Tony Herrera,tonyherrera@hotmail.com,"6841 Barbara Curve
+Michelechester, NM 91560",2015-04-17,GB17SDGR5551**********,diesel,std,four,sedan,fwd,front,97.3,teal,171.7,65.5,55.7,2264,4.0,97,23.0,52.0,4800,37,46,7995.0
+89,subaru trezia,Heather Cowan,heathercowan@gmail.com,"44659 Bender Radial
+West Kenneth, VA 26529",2018-05-22,GB70RLRK8973**********,gas,std,four,wagon,fwd,front,97.0,navy,173.5,65.4,53.0,2290,4.0,108,9.0,82.0,4800,28,32,7433.0
+90,volkswagen 1131 deluxe sedan,Paul Williams,paulwilliams@yahoo.com,"2667 Smith Glen
+Ryanview, MI 36884",2015-03-07,GB56ARDZ5421**********,gas,std,two,sedan,fwd,front,97.3,yellow,171.7,65.5,55.7,2209,4.0,109,9.0,85.0,5250,27,34,7975.0
+91,volvo 244dl,Troy Jones,troy.jones@gmail.com,"0094 Diaz Lakes Suite 414
+Jerrytown, ME 68455",2021-08-03,GB87NBGM0035**********,gas,std,four,sedan,rwd,front,104.3,olive,188.8,67.2,56.2,2935,4.0,141,9.5,114.0,5400,24,28,15985.0
+92,nissan rogue,Tony Williams,tonywilliams@yahoo.com,"62578 Aaron Corners Suite 910
+Floresfurt, AL 86476",2021-08-04,GB48GDOI5440**********,gas,std,four,hatchback,fwd,front,97.2,gray,173.4,65.2,54.7,2324,4.0,120,8.5,97.0,5200,27,34,8949.0
+93,volvo 246,Sarah Campos,sarah.campos@yahoo.com,"9862 Duran Streets Apt. 458
+Lake Patrick, WY 34853",2015-06-29,GB48KAWS3351**********,diesel,turbo,four,sedan,rwd,front,109.1,blue,188.8,68.9,55.5,3217,6.0,145,23.0,106.0,4800,26,27,22470.0
+94,volkswagen dasher,Joseph Washington,josephwashington@yahoo.com,"1882 Tina Light
+North Jenny, IA 60547",2016-12-19,GB59LAXH4103**********,gas,std,four,sedan,fwd,front,97.3,aqua,171.7,65.5,55.7,2300,4.0,109,10.0,100.0,5500,26,32,9995.0
+95,toyota cressida,Ryan Adkins,ryanadkins@yahoo.com,"Unit 1714 Box 1389
+DPO AP 33533",2015-10-17,GB09JGTL1591**********,gas,std,two,convertible,rwd,front,98.4,gray,176.2,65.6,53.0,2975,4.0,146,9.3,116.0,4800,24,30,17578.0
+96,volkswagen 411 (sw),Joseph Leblanc,josephleblanc@hotmail.com,"5530 Benson Rest
+Lake Amandatown, MS 49287",2016-06-05,GB91GIEB9627**********,gas,std,four,sedan,fwd,front,97.3,blue,171.7,65.5,55.7,2275,4.0,109,9.0,85.0,5250,27,34,8495.0
+97,mitsubishi mirage g4,Patrick Barajas,patrick.barajas@hotmail.com,"USNS Hernandez
+FPO AA 10989",2017-10-20,GB80ZRKI8706**********,gas,std,four,sedan,fwd,front,96.3,olive,172.4,65.4,51.6,2403,4.0,110,7.5,116.0,5500,23,30,9279.0
+98,mitsubishi g4,Catherine Olson,catherineolson@hotmail.com,"PSC 4984, Box 1088
+APO AP 53024",2017-04-12,GB90LARN4175**********,gas,turbo,two,hatchback,fwd,,93.0,navy,157.3,63.8,50.8,2145,4.0,98,7.6,102.0,5500,24,30,7775.0
+99,mazda rx-7 gs,Jennifer Wagner,jennifer.wagner@gmail.com,"01441 Myers Radial Suite 791
+West William, IL 45632",2020-10-30,GB41GWBN3638**********,diesel,std,four,sedan,rwd,front,104.9,lime,175.0,66.1,54.4,2700,4.0,134,22.0,72.0,4200,31,39,18344.0
+100,bmw x5,Patricia Watkins,patriciawatkins@gmail.com,"331 Torres Plaza Apt. 118
+Pattersonfort, IA 90745",2020-06-01,GB76ZNJP9870**********,gas,std,two,sedan,rwd,front,103.5,aqua,193.8,67.9,53.7,3380,6.0,209,8.0,182.0,5400,16,22,41315.0
+101,mitsubishi montero,James Smith,jamessmith@yahoo.com,"1850 Knight Creek Apt. 224
+Port Rebecca, NY 75695",2019-11-01,GB10UWZS3287**********,gas,std,four,sedan,fwd,front,96.3,lime,172.4,65.4,51.6,2365,4.0,122,8.5,88.0,5000,25,32,7087.0
+102,mitsubishi g4,Robert Phillips,robertphillips@gmail.com,"1593 Nunez Rest
+New Christina, ME 83825",2020-12-22,GB19IUZJ9741**********,gas,std,two,hatchback,fwd,front,96.3,olive,173.0,65.4,49.4,2328,4.0,122,8.5,88.0,5000,25,32,8499.0
+103,mitsubishi g4,Christopher White,christopherwhite@gmail.com,"726 Jordan Stream
+Jessicamouth, CO 55868",2019-03-27,GB30YAIN7421**********,gas,turbo,two,hatchback,fwd,front,95.9,teal,173.2,66.3,50.2,2921,4.0,156,7.0,145.0,5000,19,24,14869.0
+104,volvo 264gl,Jacob Hernandez,jacobhernandez@hotmail.com,"Unit 4064 Box 4674
+DPO AA 16724",2018-10-05,GB35JJQC5615**********,gas,turbo,four,sedan,rwd,front,109.1,olive,188.8,68.9,55.5,3062,4.0,141,9.5,114.0,5400,19,25,22625.0
+105,dodge coronet custom (sw),Maria Myers,mariamyers@hotmail.com,"84414 Angela Vista Apt. 839
+Fernandeztown, UT 36185",2017-04-07,GB84YECY1541**********,gas,turbo,two,hatchback,fwd,front,95.9,aqua,173.2,66.3,50.2,2811,4.0,156,7.0,145.0,5000,19,24,12964.0
+106,nissan rogue,Matthew Hansen,matthew.hansen@hotmail.com,"0240 Kelsey Mountain
+Kellyville, TN 34403",2018-08-06,GB53XETO4058**********,gas,std,two,sedan,fwd,front,94.5,maroon,165.3,63.8,54.5,1918,4.0,97,9.4,69.0,5200,31,37,6649.0
+107,toyota corolla,Suzanne Pratt,suzannepratt@gmail.com,"73324 Baker Roads
+Shepherdbury, AS 13181",2018-11-16,GB91IIZL9163**********,diesel,std,four,hatchback,fwd,,95.7,teal,166.3,64.4,52.8,2275,4.0,110,22.5,56.0,4500,38,47,7996.0
+108,audi 100ls,Kimberly Bennett,kimberly.bennett@hotmail.com,"7222 Patel Point
+Toddmouth, AS 44993",2019-01-01,GB62TTJB9134**********,gas,std,four,sedan,fwd,front,105.8,silver,192.7,71.4,55.7,2844,5.0,136,8.5,110.0,5500,19,25,17710.0
+109,subaru trezia,Eric York,ericyork@yahoo.com,"0234 Price Mission
+Williamsshire, ID 03800",2020-08-24,GB49SAGG7669**********,gas,std,four,wagon,fwd,front,97.0,silver,173.5,65.4,53.0,2290,4.0,108,9.0,82.0,4800,28,32,7463.0
+110,mazda rx-7 gs,Alicia Sullivan,aliciasullivan@hotmail.com,"70023 Daniel Road
+New Adam, AK 41267",2016-06-08,GB86OVRQ7956**********,diesel,std,four,sedan,rwd,front,104.9,black,175.0,66.1,54.4,2700,4.0,134,22.0,72.0,4200,31,39,18545.0
+111,peugeot 504 (sw),Kimberly Summers,kimberlysummers@yahoo.com,"66445 Lowery Junctions Suite 357
+Caldwellbury, CA 83020",2018-10-29,GB29GERO4843**********,gas,std,four,wagon,rwd,front,114.2,navy,198.9,68.4,58.7,3230,4.0,120,8.4,97.0,5000,19,24,12440.0
+112,nissan latio,Alan Gomez,alangomez@gmail.com,"06274 Marc Plains
+North Colin, CO 68718",2015-01-08,GB62TCSI1940**********,gas,std,four,sedan,fwd,front,94.5,navy,165.3,63.8,54.5,1938,4.0,97,9.4,69.0,5200,31,37,6849.0
+113,nissan titan,Carolyn Lopez,carolyn.lopez@hotmail.com,"82266 Moore Divide
+Morsetown, VA 27812",2019-06-28,GB49LOIV2983**********,gas,std,four,wagon,fwd,front,94.5,yellow,170.2,63.8,53.5,2024,4.0,97,9.4,69.0,5200,31,37,7349.0
+114,toyota mark ii,Lisa Martin,lisa.martin@hotmail.com,"84018 Stephens Walk
+West Garyville, MI 61232",2017-07-24,GB42XMNT6066**********,gas,std,four,sedan,fwd,front,95.7,fuchsia,166.3,64.4,53.0,2081,4.0,98,9.0,70.0,4800,30,37,6938.0
+115,toyota cressida,Zachary Olson,zachary.olson@gmail.com,"7974 Brittany Common Apt. 730
+Judychester, GU 76693",2016-01-03,GB97OPKS9602**********,gas,std,two,convertible,rwd,front,98.4,black,176.2,65.6,53.0,2975,4.0,146,9.3,116.0,4800,24,30,17669.0
+116,mitsubishi pajero,Justin Martinez,justin.martinez@yahoo.com,"110 Hampton Ridges Suite 787
+North Pamelaberg, IL 15257",2020-02-06,GB48QIRS1992**********,gas,std,four,sedan,fwd,front,96.3,white,172.4,65.4,51.6,2405,,122,8.5,88.0,5000,25,32,8091.0
+117,porsche cayenne,Jacob Mckinney,jacobmckinney@yahoo.com,"10286 Bowers Rapid
+West Sarahmouth, CA 91510",2015-07-04,GB24SDOW2234**********,gas,std,two,hatchback,rwd,front,98.4,silver,175.7,72.3,50.5,3366,8.0,203,10.0,288.0,5750,17,28,31400.5
+118,mazda rx-7 gs,John Deleon,john.deleon@yahoo.com,"339 Jennifer Extensions Apt. 854
+Nicholaschester, IL 07999",2022-04-23,GB74FPXL4217**********,gas,std,two,hatchback,rwd,front,95.3,olive,169.0,65.7,49.6,2385,2.0,70,9.4,101.0,6000,17,23,13645.0
+119,plymouth duster,Samantha Spencer,samantha.spencer@hotmail.com,"Unit 1971 Box 9635
+DPO AE 28491",2018-06-24,GB43ENYH4192**********,gas,turbo,two,hatchback,rwd,front,95.9,green,173.2,66.3,50.2,2818,4.0,156,7.0,145.0,5000,19,24,12764.0
+120,toyota tercel,Joshua Harris,joshuaharris@gmail.com,"4155 Allen Port Apt. 666
+Cynthiaport, AS 04857",2018-02-18,GB18GMDK0371**********,gas,std,two,hardtop,rwd,front,98.4,green,176.2,65.6,52.0,2679,4.0,146,9.3,116.0,4800,24,30,11199.0
+121,peugeot 504,Claudia Mosley,claudia.mosley@yahoo.com,"197 Christopher Inlet Apt. 055
+Andrewport, MO 92756",2022-06-08,GB44ADYS9289**********,diesel,turbo,four,wagon,rwd,front,114.2,teal,198.9,68.4,58.7,3430,4.0,152,21.0,95.0,4150,25,25,13860.0
+122,renault 12tl,Brian Chang,brianchang@hotmail.com,"685 Julie Terrace
+New Margaret, PW 42870",2022-12-21,GB97MJMY5561**********,gas,std,four,wagon,fwd,front,96.1,green,181.5,66.5,55.2,2579,4.0,132,8.7,90.0,5100,23,31,9295.0
+123,mitsubishi outlander,Shawn Cooper,shawn.cooper@hotmail.com,"84089 Delacruz Bypass Apt. 724
+Bakerside, ND 78930",2015-04-15,GB40DWZP4603**********,gas,turbo,four,sedan,fwd,front,96.3,yellow,172.4,65.4,51.6,2403,4.0,110,7.5,116.0,5500,23,30,9279.0
+124,alfa-romero Quadrifoglio,Monica Brooks,monica.brooks@hotmail.com,"PSC 6022, Box 0264
+APO AP 91795",2020-06-08,GB23ANTV5198**********,gas,std,two,hatchback,rwd,front,94.5,gray,171.2,65.5,52.4,2823,6.0,152,9.0,154.0,5000,19,26,16500.0
+125,peugeot 504,Kimberly Williams,kimberlywilliams@gmail.com,"482 Smith Route Suite 608
+Valenciaborough, PA 50311",2019-01-10,GB25BTWD3224**********,diesel,turbo,four,sedan,rwd,front,107.9,navy,186.7,68.4,56.7,3252,4.0,152,21.0,95.0,4150,28,33,17950.0
+126,subaru dl,Ruth Castillo,ruthcastillo@gmail.com,"USNV Hill
+FPO AE 26378",2019-10-23,GB30ICDY8456**********,gas,std,two,hatchback,4wd,front,93.3,fuchsia,157.3,63.8,55.7,2240,4.0,108,8.7,73.0,4400,26,31,7603.0
+127,mitsubishi outlander,Carlos Garcia,carlos.garcia@hotmail.com,"7179 Katherine Brook Apt. 920
+South Mathewchester, PW 36155",2020-06-20,GB69CEXE0253**********,gas,turbo,two,hatchback,fwd,front,95.9,silver,173.2,66.3,50.2,2833,4.0,156,7.0,145.0,5000,19,24,12629.0
+128,dodge coronet custom,Kevin Barnett,kevin.barnett@yahoo.com,"5892 Rebecca Turnpike Suite 830
+Baileymouth, CT 57066",2016-01-17,GB40MPUS8574**********,gas,turbo,two,sedan,fwd,front,93.7,blue,157.3,63.8,50.6,2191,4.0,98,7.6,102.0,5500,24,30,8558.0
+129,subaru,Martin Patel,martin.patel@hotmail.com,"PSC 5969, Box 5987
+APO AE 02120",2021-01-24,GB12WGDW6598**********,gas,std,four,sedan,fwd,front,97.2,green,172.0,65.4,52.5,2145,4.0,108,9.5,82.0,4800,32,37,7121.0
+130,peugeot 504,Helen Grant,helengrant@hotmail.com,"910 Scott Wall
+Lake Philip, AZ 70186",2018-09-14,GB44WYXU0086**********,gas,std,four,sedan,rwd,front,107.9,maroon,186.7,68.4,56.7,3075,4.0,120,8.4,97.0,5000,19,24,16630.0
+131,dodge d200,Melissa Romero,melissa.romero@gmail.com,"252 Hensley Mountains Suite 493
+Port Jeffreyland, MS 07744",2019-02-16,GB05ILHA4236**********,gas,turbo,two,hatchback,fwd,front,93.7,aqua,,63.8,50.8,2128,4.0,98,7.6,102.0,5500,24,30,7881.0
+132,nissan rogue,Laura Flynn,lauraflynn@gmail.com,"5933 Martinez Grove
+Scottborough, FL 76849",2020-01-09,GB18NLGR6089**********,gas,std,four,hatchback,fwd,front,97.2,white,173.4,65.2,54.7,2324,,120,8.5,97.0,5200,27,34,9011.0
+133,,Michael Williams,michael.williams@gmail.com,"753 Madison Streets
+Sullivanton, NM 50217",2015-04-10,GB13QMRT4528**********,,std,two,,rwd,rear,89.5,teal,168.9,65.0,51.6,2756,6.0,194,9.5,,5900,17,25,32507.0
+134,saab 99e,Justin Howell,justin.howell@hotmail.com,"50889 Boone Spur
+Jerryton, IL 27966",2015-06-26,GB35VAKV1063**********,gas,turbo,four,sedan,fwd,front,99.1,teal,186.6,66.5,56.1,2847,4.0,121,9.0,160.0,5500,19,26,18620.0
+135,dodge coronet custom,Tiffany Oconnor,tiffanyoconnor@yahoo.com,"4328 Davis Course
+Gregoryhaven, MI 38493",2019-10-05,GB44BWPS4716**********,gas,turbo,two,sedan,fwd,front,93.7,blue,157.3,63.8,50.6,2191,4.0,98,7.6,102.0,5500,24,30,8389.0
+136,saab 99gle,Michelle Thompson,michelle.thompson@yahoo.com,"267 Mclean Centers
+Port Patty, WI 82090",2016-01-22,GB89WVYN2609**********,gas,turbo,two,hatchback,fwd,front,99.1,yellow,186.6,66.5,56.1,2808,4.0,121,9.0,160.0,5500,19,26,18150.0
+137,toyota starlet,Paula Fisher,paulafisher@gmail.com,"0918 Cochran Cliffs Apt. 883
+Curtisport, FL 03742",2018-10-23,GB52YUKX6592**********,gas,std,two,hatchback,rwd,front,98.4,olive,176.2,65.6,52.0,2551,4.0,146,9.3,116.0,4800,24,30,9989.0
+138,toyouta tercel,Katie Moore,katiemoore@gmail.com,"386 Andrew Canyon Suite 365
+Katherineshire, NY 95162",2016-01-13,GB44WXFJ5910**********,gas,std,four,wagon,rwd,front,104.5,teal,187.8,66.5,54.1,3151,6.0,161,9.2,156.0,5200,19,24,15750.0
+139,toyota corolla,Spencer Allen,spencerallen@hotmail.com,"367 Lopez Tunnel
+North Laura, NY 16520",2015-08-18,GB02XCHD7397**********,gas,std,four,sedan,fwd,front,102.4,silver,175.6,66.5,54.9,2414,4.0,122,8.7,92.0,4200,27,32,10898.0
+140,toyota corona,Lucas Smith,lucassmith@yahoo.com,"5118 Ramirez Mountain Apt. 986
+New Douglasfort, DC 53370",2021-12-02,GB81PLRC7392**********,gas,std,four,hatchback,fwd,front,102.4,fuchsia,175.6,66.5,53.9,2414,4.0,122,8.7,92.0,4200,27,32,9988.0
+141,peugeot 504,Dale Garcia,dale.garcia@gmail.com,"802 Russell Crossing Apt. 465
+Lake Darinside, PW 08253",2021-09-23,GB31BAYH3591**********,gas,std,four,sedan,rwd,front,107.9,fuchsia,186.7,68.4,56.7,3075,4.0,120,8.4,95.0,5000,19,24,15580.0
+142,mitsubishi mirage g4,Latoya Santiago,latoya.santiago@yahoo.com,"40743 Torres Overpass
+Port Christopherland, LA 07352",2019-12-07,GB83AXIM9997**********,gas,turbo,two,hatchback,fwd,front,96.3,lime,173.0,65.4,49.4,2370,4.0,110,7.5,116.0,5500,23,30,9959.0
+143,honda civic 1500 gl,Daniel Barr,danielbarr@gmail.com,"54898 Hurst Lane
+New Christopherfurt, SD 56333",2017-12-30,GB48QYDT7686**********,gas,std,four,wagon,fwd,front,96.5,navy,157.1,63.9,58.3,2024,4.0,92,9.2,76.0,6000,30,34,7295.0
+144,mazda glc 4,Michael Leblanc,michaelleblanc@gmail.com,"92942 Lee Ways
+Julieberg, MA 79674",2016-04-07,GB13LCOW7575**********,gas,std,two,hatchback,rwd,front,95.3,aqua,169.0,65.7,49.6,2500,2.0,80,9.4,135.0,6000,16,23,15645.0
+145,volkswagen super beetle,Jessica Giles,jessicagiles@yahoo.com,"809 Melvin Run Suite 026
+Kaneborough, NY 07102",2020-07-10,GB21IMAM3036**********,diesel,turbo,four,sedan,fwd,front,97.3,white,171.7,65.5,55.7,2319,4.0,97,23.0,68.0,4500,37,42,9495.0
+146,honda civic,Yolanda Smith,yolandasmith@hotmail.com,"31169 Daugherty Terrace
+Port Johnmouth, OH 24694",2020-04-11,GB93NQKJ5421**********,gas,std,four,sedan,fwd,front,96.5,navy,175.4,65.2,54.1,2465,4.0,110,9.0,101.0,5800,24,28,12945.0
+147,mitsubishi g4,Madison Cox,madison.cox@gmail.com,"781 Moses Brooks
+Crystaltown, GU 94913",2019-01-17,GB13UFOP9506**********,gas,std,two,hatchback,fwd,front,96.3,black,173.0,65.4,49.4,2328,4.0,122,8.5,88.0,5000,25,32,8370.0
+148,nissan note,Gary Allen,gary.allen@hotmail.com,"1877 Smith Creek Suite 742
+West Dennis, DE 72975",2020-08-31,GB74RRRA2450**********,gas,std,four,wagon,fwd,front,94.5,blue,170.2,63.8,53.5,2037,4.0,97,9.4,69.0,5200,31,37,7999.0
+149,maxda rx3,Jonathan Strong,jonathan.strong@gmail.com,"069 Wood Locks Apt. 804
+Jessicaview, MO 01893",2017-12-21,GB12GBZM3937**********,gas,std,two,hatchback,fwd,front,93.1,olive,159.1,64.2,54.1,1890,4.0,91,9.0,68.0,5000,30,31,5195.0
+150,mazda rx-4,Samantha Craig,samanthacraig@hotmail.com,"29857 Lauren Crossing
+South Marissa, ND 48394",2017-09-14,GB41BMRJ9325**********,gas,std,four,sedan,fwd,front,93.1,lime,166.8,64.2,54.1,1945,4.0,91,9.0,68.0,5000,31,38,6695.0
+151,toyota corolla 1600 (sw),Samuel Velasquez,samuel.velasquez@gmail.com,"57410 Janet Manor
+East Debbie, NH 57989",2022-09-14,GB80LGVN1434**********,gas,std,four,wagon,4wd,front,95.7,yellow,169.7,63.6,59.1,2290,4.0,92,9.0,62.0,4800,27,32,7898.0
+152,jaguar xj,Steven Adkins,steven.adkins@yahoo.com,"1517 Johnson Cliffs Apt. 173
+Welchview, GU 43967",2020-03-19,GB63EVIB4486**********,gas,std,four,sedan,rwd,front,113.0,teal,199.6,69.6,52.8,4066,6.0,258,8.1,176.0,4750,15,19,32250.0
+153,buick century,William Murphy,williammurphy@hotmail.com,"90312 Jeanne Dale
+Joshuabury, WA 77982",2021-07-22,GB48UXXQ8981**********,diesel,turbo,two,hardtop,rwd,front,106.7,black,187.5,70.3,54.9,3495,5.0,183,21.5,123.0,4350,22,25,28176.0
+154,honda accord lx,Christopher Smith,christopher.smith@gmail.com,"16832 Cunningham Light
+West Felicia, AS 71959",2016-07-15,GB30ZQHE9476**********,gas,std,four,sedan,fwd,front,96.5,silver,163.4,64.0,54.5,2010,4.0,92,9.2,76.0,6000,30,34,7311.0
+155,buick regal sport coupe (turbo),Eric Sheppard,ericsheppard@yahoo.com,"4558 Carter Forest
+South Mary, IL 57032",2016-11-12,GB19SGZN7457**********,gas,std,two,hardtop,rwd,front,112.0,gray,199.2,72.0,55.4,3715,8.0,304,8.0,184.0,4500,14,16,45400.0
+156,renault 5 gtl,Samantha Jackson,samantha.jackson@gmail.com,"9590 Joshua Circle
+East Carlbury, NC 37114",2020-09-02,GB90QGTB8882**********,gas,std,two,hatchback,fwd,front,96.1,green,176.8,66.6,50.5,2460,4.0,132,8.7,90.0,5100,23,31,9895.0
+157,dodge colt hardtop,Patrick Miller,patrickmiller@gmail.com,"PSC 1519, Box 9012
+APO AA 19876",2017-05-14,GB24BTDA6260**********,gas,std,four,sedan,fwd,front,93.7,blue,157.3,63.8,50.6,1989,4.0,90,9.4,68.0,5500,31,38,6692.0
+158,toyota corolla,Paul Bailey,paul.bailey@hotmail.com,"1784 Brendan Summit Apt. 392
+Roachmouth, MN 57033",2020-12-08,GB55GJGY9571**********,gas,std,four,sedan,fwd,front,102.4,yellow,175.6,66.5,54.9,2326,4.0,122,8.7,92.0,4200,29,34,8948.0
+159,mazda 626,Cynthia Martinez,cynthiamartinez@gmail.com,"USS Jarvis
+FPO AE 03086",2017-05-30,GB81GTRV9184**********,gas,std,two,hatchback,rwd,front,95.3,white,169.0,65.7,49.6,2380,2.0,70,9.4,101.0,6000,17,23,10945.0
+160,subaru,Holly Turner,holly.turner@yahoo.com,"07647 John Lake Suite 171
+Mendozaborough, NY 53403",2017-12-06,GB20TSKI1813**********,gas,std,four,sedan,fwd,front,97.2,navy,172.0,65.4,52.5,2145,4.0,108,9.5,82.0,4800,32,37,7126.0
+161,,Brenda Ward,brendaward@hotmail.com,"17462 Matthew Walks
+Smithstad, PR 49529",2022-06-19,GB60JVTU8135**********,,turbo,two,,rwd,front,95.9,silver,,66.3,50.2,2818,4.0,156,7.0,,5000,19,24,12599.0
+162,mazda glc custom,Rachael Munoz,rachael.munoz@hotmail.com,"44940 Linda Terrace
+Sheilaside, TN 58870",2018-11-04,GB72QDKS3558**********,gas,std,two,hatchback,fwd,front,98.8,teal,177.8,66.5,53.7,2385,4.0,122,8.6,84.0,4800,26,32,10595.0
+163,vokswagen rabbit,Cathy Sanchez,cathy.sanchez@hotmail.com,"5127 Joshua Junction
+East Joseshire, OR 70149",2022-08-01,GB42DWLD1289**********,diesel,std,two,sedan,fwd,front,97.3,purple,171.7,65.5,55.7,2261,4.0,97,23.0,52.0,4800,37,46,7775.0
+164,mazda 626,Virginia Walsh,virginia.walsh@hotmail.com,"Unit 1576 Box 0222
+DPO AA 53162",2021-08-19,GB61UFJO3016**********,gas,std,four,hatchback,fwd,front,98.8,lime,177.8,66.5,55.5,2425,4.0,122,8.6,84.0,4800,26,32,11245.0
+165,bmw 320i,Christina Green,christina.green@hotmail.com,"348 Thompson Prairie Apt. 049
+West Robinbury, VA 67509",2022-01-06,GB12FEGL5853**********,gas,std,two,sedan,rwd,front,101.2,maroon,176.8,64.8,54.3,2395,4.0,108,8.8,101.0,5800,23,29,16430.0
+166,Nissan versa,Hannah Clark,hannahclark@hotmail.com,"9398 John Underpass Suite 733
+West Justin, NV 86629",2021-03-11,GB48TSED5778**********,gas,std,two,sedan,fwd,front,94.5,white,165.3,63.8,54.5,1889,4.0,97,9.4,69.0,5200,31,37,5499.0
+167,peugeot 504,Heather Malone,heathermalone@gmail.com,"Unit 0429 Box 0170
+DPO AA 20893",2021-12-22,GB43MHAU2718**********,gas,std,four,sedan,rwd,front,107.9,lime,186.7,68.4,56.7,3020,4.0,120,8.4,97.0,5000,19,24,11900.0
+168,subaru tribeca,Carol Ryan,carol.ryan@gmail.com,"Unit 0399 Box 8150
+DPO AP 82581",2020-09-07,GB67UCGI5011**********,gas,std,four,wagon,fwd,front,97.0,gray,173.5,65.4,53.0,2455,4.0,108,9.0,94.0,5200,25,31,10198.0
+169,dodge d200,Jennifer Cruz,jennifercruz@hotmail.com,"028 Vanessa Route
+North Peter, FM 24722",2016-02-16,GB09GGIL6785**********,gas,turbo,two,hatchback,fwd,front,93.7,lime,157.3,63.8,50.8,2128,4.0,98,7.6,102.0,5500,24,30,7957.0
+170,mazda glc,Melissa Austin,melissa.austin@hotmail.com,"205 Kimberly Expressway Suite 093
+Anthonyhaven, FM 09105",2017-02-13,GB95BJAD1660**********,gas,std,two,hatchback,rwd,front,95.3,navy,169.0,65.7,49.6,2380,2.0,70,9.4,101.0,6000,17,23,11845.0
+171,honda civic cvcc,Robert Acosta,robertacosta@hotmail.com,"7971 Dennis Hill Apt. 384
+Bauermouth, RI 42328",2017-02-11,GB34WERA8059**********,gas,std,two,hatchback,fwd,front,93.7,maroon,150.0,64.0,52.6,1956,4.0,92,9.2,76.0,6000,30,34,7129.0
+172,volvo 264gl,Amber Morgan,amber.morgan@yahoo.com,"5491 Rodriguez Loop
+Richardmouth, CA 33207",2019-11-16,GB89HVWL5273**********,gas,turbo,four,sedan,rwd,front,104.3,yellow,188.8,67.2,56.2,3045,4.0,130,7.5,162.0,5100,17,22,18420.0
+173,honda accord,Paige Wilkerson,paige.wilkerson@hotmail.com,"179 Herrera Drive Apt. 060
+East Natalie, AR 45241",2021-12-16,GB68DLEJ9710**********,gas,std,four,sedan,fwd,front,96.5,purple,175.4,62.5,54.1,2372,4.0,110,9.0,86.0,5800,27,33,10295.0
+174,subaru brz,Leah Todd,leahtodd@gmail.com,"28483 Kayla Loaf
+Lanebury, CT 12699",2017-01-22,GB17TBVZ7448**********,gas,std,four,sedan,fwd,front,97.2,purple,172.0,65.4,52.5,2190,4.0,108,9.5,82.0,4400,28,33,7775.0
+175,mitsubishi mirage,Richard Scott,richardscott@hotmail.com,"7447 Jordan Trail Suite 622
+Benjaminport, TX 21769",2015-07-23,GB21STDZ4472**********,gas,std,two,hatchback,fwd,front,93.7,blue,157.3,64.4,50.8,1918,4.0,92,9.4,68.0,5500,37,41,5389.0
+176,plymouth valiant,Shirley Miller,shirleymiller@gmail.com,"5998 Clark Rest
+Ambershire, UT 60873",2016-03-05,GB16WXGN8352**********,gas,std,four,wagon,fwd,front,103.3,purple,174.6,64.6,59.8,2535,4.0,122,8.5,88.0,5000,24,30,8921.0
+177,bmw x3,Mark Houston,markhouston@yahoo.com,"656 Jill Ridges Apt. 623
+East Kelseybury, PA 57928",2018-01-07,GB49OHAZ8636**********,gas,std,four,sedan,rwd,front,110.0,blue,197.0,70.9,56.3,3505,6.0,209,8.0,182.0,5400,15,20,36880.0
+178,audi 100 ls,Michael Caldwell,michael.caldwell@gmail.com,"4446 Morgan Crescent Suite 044
+Pamelamouth, OK 47267",2016-12-16,GB06GVQR5446**********,gas,std,four,sedan,fwd,front,99.8,green,176.6,66.2,54.3,2337,4.0,109,10.0,102.0,5500,24,30,13950.0
+179,mitsubishi lancer,Renee Mckay,renee.mckay@yahoo.com,"80225 Marcus Port Suite 389
+North Frederick, IA 34562",2018-04-01,GB92OCPO3970**********,gas,std,two,hatchback,fwd,,93.7,white,,64.4,50.8,1944,,92,9.4,68.0,5500,31,38,6115.0
+180,toyota celica gt liftback,Teresa Golden,teresa.golden@hotmail.com,"1305 Susan Via Apt. 575
+East Janice, FL 11838",2020-11-26,GB73UJYT1336**********,gas,std,two,sedan,rwd,front,94.5,purple,168.7,64.0,52.6,2265,4.0,98,9.4,112.0,6600,26,29,9298.0
+181,honda civic cvcc,Randall Dyer,randall.dyer@hotmail.com,"5443 Richard Creek
+Gregorybury, KS 97772",2018-09-19,GB22SNNH8884**********,gas,std,two,hatchback,fwd,front,86.6,purple,144.6,63.9,50.8,1819,4.0,92,9.2,76.0,6000,31,38,6855.0
+182,mazda rx-4,Charles Phillips,charlesphillips@hotmail.com,"8386 Mark Field Suite 225
+Haroldfurt, TN 05494",2019-09-26,GB19VIXE1806**********,gas,std,four,sedan,fwd,front,98.8,gray,177.8,66.5,55.5,2410,4.0,122,8.6,84.0,4800,26,32,10245.0
+183,audi 4000,Matthew Nguyen,matthew.nguyen@hotmail.com,"USS Kelly
+FPO AE 60560",2021-05-15,GB35LDLI9317**********,gas,turbo,four,sedan,fwd,front,105.8,aqua,192.7,71.4,55.9,3086,5.0,131,8.3,140.0,5500,17,20,23875.0
+184,bmw 320i,Jeffrey Perkins,jeffrey.perkins@gmail.com,"55111 Hill Dale
+Matthewborough, HI 18304",2019-11-21,GB76CIWC0628**********,gas,std,four,sedan,rwd,front,101.2,lime,176.8,64.8,54.3,2395,4.0,108,8.8,101.0,5800,23,29,16925.0
+185,toyota corona,Paul Bryant,paulbryant@hotmail.com,"Unit 0242 Box 4490
+DPO AA 36305",2022-03-16,GB79SOQE0275**********,diesel,std,four,sedan,fwd,front,95.7,yellow,166.3,64.4,53.0,2275,4.0,110,22.5,56.0,4500,34,36,7898.0
+186,mazda glc,John Johnson,johnjohnson@yahoo.com,"Unit 4635 Box 9389
+DPO AP 77623",2021-05-01,GB59ZVXJ4220**********,gas,std,four,sedan,rwd,front,104.9,olive,175.0,66.1,54.4,2670,4.0,140,8.0,120.0,5000,19,27,18280.0
+187,vw rabbit,Amanda Campbell,amanda.campbell@yahoo.com,"86438 John Hills Apt. 201
+New Eddiechester, MP 80611",2022-08-03,GB06YNJJ4360**********,gas,std,two,hatchback,fwd,front,94.5,gray,165.7,64.0,51.4,2221,4.0,109,8.5,90.0,5500,24,29,9980.0
+188,dodge monaco (sw),Michele Wright,michele.wright@gmail.com,"5417 Byrd Neck
+East Heathermouth, PW 64016",2020-09-27,GB30GAOA1680**********,gas,std,four,hatchback,fwd,front,93.7,olive,157.3,63.8,50.6,1967,4.0,90,9.4,68.0,5500,31,38,6229.0
+189,dodge challenger se,Steven Bennett,stevenbennett@yahoo.com,"67779 Stevens Ridges
+Lake Aaron, DE 06737",2020-03-27,GB95TANJ4121**********,gas,std,two,hatchback,fwd,front,93.7,black,157.3,63.8,50.8,1876,4.0,90,9.4,68.0,5500,31,38,6377.0
+190,volvo 245,Zachary Crawford,zacharycrawford@gmail.com,"24752 Jennifer Field Suite 777
+Ellishaven, TX 49729",2019-02-09,GB78GCHQ7686**********,gas,std,four,wagon,rwd,front,104.3,gray,188.8,67.2,57.5,3042,4.0,141,9.5,114.0,5400,24,28,16515.0
+191,nissan clipper,Janet Thomas,janet.thomas@hotmail.com,"3172 Craig Haven
+North Tony, OR 08193",2017-11-28,GB65XQPI7683**********,gas,std,two,hatchback,rwd,front,99.2,green,178.5,67.9,49.7,3139,6.0,181,9.0,160.0,5200,19,25,18399.0
+192,porsche macan,Robert Baker,robertbaker@gmail.com,"70989 Katherine Orchard
+North Jennifer, OR 57280",2017-05-24,GB54UZTY7827**********,gas,std,two,hatchback,rwd,,94.5,fuchsia,168.9,68.3,50.2,2778,4.0,151,9.5,143.0,5500,19,27,21868.0
+193,isuzu D-Max V-Cross,David King,david.king@gmail.com,"692 Brandon Glen Apt. 445
+Port Seanville, WI 79744",2017-06-30,GB84NQAH6287**********,gas,std,four,sedan,fwd,front,94.5,navy,155.9,63.6,52.0,1909,4.0,90,9.6,70.0,5400,38,43,8916.5
+194,,Stanley Moore,stanleymoore@hotmail.com,"4116 Jones Fall
+Port Michael, KS 97623",2015-05-15,GB20QNAG3477**********,,std,four,,fwd,front,97.3,black,,65.5,55.7,2275,4.0,109,9.0,,5250,27,34,8734.0
+195,dodge dart custom,Jackie Landry,jackielandry@yahoo.com,"593 Chavez Mill
+Sawyermouth, NJ 62623",2018-09-18,GB76UYDP8833**********,gas,std,four,wagon,fwd,front,103.3,aqua,174.6,64.6,59.8,2535,4.0,122,8.5,88.0,5000,24,30,8921.0
+196,bmw x1,Brittany Oneal,brittany.oneal@gmail.com,"USS Mccarthy
+FPO AA 54748",2022-08-17,GB63MPJL5204**********,gas,std,two,sedan,rwd,front,101.2,black,176.8,64.8,54.3,2710,6.0,164,9.0,121.0,4250,21,28,20970.0
+197,,Sarah Jimenez,sarahjimenez@hotmail.com,"238 Christopher Center
+New Bradley, TX 85245",2021-09-17,GB92IFOA0952**********,,std,four,,fwd,front,98.8,green,177.8,66.5,55.5,2410,4.0,122,8.6,,4800,26,32,10341.0
+198,mitsubishi pajero,Melinda Boyd,melindaboyd@yahoo.com,"7493 Garcia Ports Suite 534
+Davisville, LA 22656",2018-04-12,GB14HDLJ3137**********,gas,std,four,sedan,fwd,front,96.3,fuchsia,172.4,65.4,51.6,2405,4.0,122,8.5,88.0,5000,25,32,8189.0
+199,peugeot 304,Garrett Ramos,garrettramos@gmail.com,"65039 Stephanie Cape
+Harrisburgh, VT 54903",2020-09-21,GB85NWXV4280**********,diesel,turbo,four,sedan,rwd,front,107.9,purple,186.7,68.4,56.7,3197,4.0,152,21.0,95.0,4150,28,33,13200.0
+200,dodge rampage,Jennifer Cortez,jennifercortez@hotmail.com,"205 Green Rue Apt. 892
+Port Debra, KY 01807",2022-01-14,GB85DSFU7965**********,gas,std,two,hatchback,fwd,front,93.7,green,157.3,63.8,50.8,1876,4.0,90,9.41,68.0,5500,37,41,5572.0
+201,volvo diesel,Laurie Wise,lauriewise@yahoo.com,"992 Nicolas Walks Suite 656
+Jessicatown, RI 10429",2020-01-08,GB09VMVY1233**********,gas,turbo,four,wagon,rwd,front,104.3,yellow,188.8,67.2,57.5,3157,4.0,130,7.5,162.0,5100,17,22,18950.0
+202,subaru r2,Joseph Hunt,joseph.hunt@gmail.com,"3148 Zachary Place
+Downsstad, VI 11762",2018-11-14,GB59ITRY1798**********,gas,turbo,four,sedan,4wd,,97.0,navy,172.0,65.4,54.3,2510,4.0,108,7.7,111.0,4800,24,29,11124.0
+203,subaru baja,Gina Valentine,ginavalentine@yahoo.com,"780 Emily Shores
+New Larry, MO 75530",2022-10-06,GB61JJPD8312**********,gas,std,four,sedan,fwd,front,97.2,navy,172.0,65.4,52.5,2340,4.0,108,9.0,94.0,5200,26,32,9960.0
+204,toyota corona,Sean Reese,sean.reese@yahoo.com,"119 Carr Avenue
+Wrightport, SC 44775",2020-01-07,GB05HUCL1693**********,gas,std,two,hatchback,fwd,front,95.7,gray,158.7,63.6,54.5,2040,4.0,92,9.0,62.0,4800,31,38,6338.0
+205,volkswagen rabbit,Christopher Clark,christopher.clark@hotmail.com,"59540 Andrew Summit
+Monicaborough, NE 28103",2015-05-23,GB53CFNJ7391**********,gas,std,four,sedan,fwd,front,100.4,purple,180.2,66.9,55.1,2661,5.0,136,8.5,110.0,5500,19,24,13295.0
+206,toyota corona,Michael Hansen,michael.hansen@hotmail.com,"42051 Kimberly Vista Suite 890
+South Rickyborough, CO 57622",2020-04-22,GB98DSHI0613**********,gas,std,two,hatchback,rwd,front,94.5,teal,168.7,64.0,52.6,2204,4.0,98,9.0,70.0,4800,29,34,8238.0
+207,nissan nv200,Theresa Higgins,theresa.higgins@yahoo.com,"2052 Sarah Harbors Apt. 697
+Port Jacob, PR 87218",2019-03-19,GB74LNDM2739**********,gas,std,four,sedan,fwd,front,97.2,white,173.4,65.2,54.7,2302,4.0,120,8.5,97.0,5200,27,34,9549.0
+208,jaguar xk,Molly Jackson,molly.jackson@yahoo.com,"687 Ashley Inlet Apt. 093
+Laraville, NE 29923",2017-10-08,GB26WJEL1450**********,gas,std,two,sedan,rwd,front,102.0,black,191.7,70.6,47.8,3950,12.0,326,11.5,262.0,5000,13,17,36000.0
+209,nissan leaf,Christopher Williams,christopher.williams@gmail.com,"85116 Jennifer Fork
+South Gregoryfort, PW 73880",2019-06-04,GB74TQRR0366**********,gas,std,two,sedan,fwd,front,94.5,lime,165.3,63.8,54.5,1951,4.0,97,9.4,69.0,5200,31,37,7299.0
+210,saab 99gle,Todd Chandler,todd.chandler@gmail.com,"08269 Courtney Glen
+Campbellmouth, MT 96809",2017-10-06,GB61LWUS8602**********,gas,std,four,sedan,fwd,front,99.1,olive,186.6,66.5,56.1,2758,4.0,121,9.3,110.0,5250,21,28,15510.0
+211,toyota corolla liftback,Sydney Roman,sydney.roman@hotmail.com,"11525 Stein Isle
+Lake John, VT 43040",2016-02-11,GB37FRLC8950**********,gas,std,two,sedan,rwd,front,94.5,silver,168.7,64.0,52.6,2169,4.0,98,9.0,70.0,4800,29,34,8058.0
+212,volkswagen rabbit custom,Tina Sanchez,tina.sanchez@yahoo.com,"728 Austin Estate
+West Barryville, WA 86755",2017-03-24,GB63RTAB6462**********,diesel,turbo,four,sedan,fwd,front,100.4,yellow,180.2,66.9,55.1,2579,4.0,97,23.0,68.0,4500,33,38,13845.0
+213,audi 5000,Stephanie Moore,stephanie.moore@hotmail.com,"143 Angela Unions
+East Haleyburgh, AS 00717",2019-03-10,GB02BDRZ2944**********,gas,std,four,wagon,fwd,front,105.8,white,192.7,71.4,55.7,2954,5.0,136,8.5,110.0,5500,19,25,18920.0
+214,peugeot 604sl,Kayla Ballard,kaylaballard@yahoo.com,"594 Cameron Crescent
+Frederickmouth, TN 34991",2016-01-14,GB74WITS4794**********,gas,turbo,four,sedan,rwd,front,108.0,silver,186.7,68.3,56.0,3130,4.0,134,7.0,142.0,5600,18,24,18150.0
+215,buick century luxus (sw),Kathryn Munoz,kathrynmunoz@gmail.com,"8236 Hall Vista Apt. 898
+West Nathanside, CO 11460",2019-10-10,GB68VPOD1405**********,diesel,turbo,four,wagon,rwd,front,110.0,green,190.9,70.3,58.7,3750,5.0,183,21.5,123.0,4350,22,25,28248.0
+216,toyota corona,Eric Beck,ericbeck@gmail.com,"503 Wilson Mountain Suite 775
+Edwardside, IA 48557",2021-04-03,GB09YONP5432**********,gas,std,four,sedan,fwd,front,95.7,white,166.3,64.4,53.0,2094,4.0,98,9.0,70.0,4800,38,47,7738.0
+217,porcshce panamera,Diana Thomas,diana.thomas@gmail.com,"547 Stewart Pines Suite 632
+South Alyssamouth, KY 88936",2017-10-06,GB14LRGI9763**********,gas,std,two,hardtop,rwd,rear,89.5,navy,168.9,65.0,51.6,2756,6.0,194,9.5,207.0,5900,17,25,32528.0
+218,mitsubishi g4,Mark Allison,markallison@gmail.com,"184 Allen Manors
+South Maureen, NC 33742",2015-08-02,GB57DDVB8224**********,gas,turbo,two,hatchback,fwd,front,95.9,blue,173.2,66.3,50.2,2921,4.0,156,7.0,145.0,5000,19,24,14941.0
+219,honda civic,Amy Daniels,amy.daniels@gmail.com,"44950 House Knoll Suite 118
+Lake Leonardland, AS 28405",2016-06-18,GB61MZKT0828**********,gas,std,two,hatchback,fwd,front,93.7,yellow,150.0,64.0,52.6,1837,4.0,79,10.1,60.0,5500,38,42,5399.0
+220,plymouth fury gran sedan,Teresa Hayes,teresahayes@hotmail.com,"76304 Kristina Lodge Suite 366
+South Lauren, MD 95459",2015-06-26,GB13COLB0886**********,gas,std,four,sedan,fwd,front,93.7,purple,167.3,63.8,50.8,2191,4.0,98,9.4,68.0,5500,31,38,7609.0
+221,volvo 145e (sw),Jill Hale,jillhale@gmail.com,"USNV Delgado
+FPO AE 72132",2016-02-04,GB89JAGQ8015**********,gas,std,four,sedan,rwd,front,104.3,white,188.8,67.2,56.2,2912,4.0,141,9.5,114.0,5400,23,28,12940.0
+222,buick skylark,Jessica Cruz,jessicacruz@yahoo.com,"07540 Juan Gateway
+Allenhaven, AR 10024",2020-10-22,GB06PQJQ9664**********,gas,std,two,convertible,rwd,front,96.6,olive,180.3,70.5,50.8,3685,8.0,234,8.3,155.0,4750,16,18,35056.0
+223,nissan teana,Debra Conrad,debraconrad@yahoo.com,"USNV Waters
+FPO AA 89804",2017-02-13,GB88VSBT2027**********,gas,std,two,hatchback,rwd,front,91.3,aqua,170.7,67.9,49.7,3071,6.0,181,9.0,160.0,5200,19,25,17199.0
+224,mercury cougar,Wesley Chaney,wesleychaney@yahoo.com,"PSC 6115, Box 5909
+APO AE 19880",2019-01-09,GB78FDFC5503**********,gas,turbo,two,hatchback,rwd,front,102.7,blue,178.4,68.0,54.8,2910,4.0,140,8.0,175.0,5000,19,24,16503.0
+225,honda accord,Mark Waters,markwaters@hotmail.com,"874 Price Tunnel
+North Markmouth, NJ 96718",2017-02-10,GB48NLWR0095**********,gas,std,two,hatchback,fwd,front,96.5,black,167.5,65.2,53.3,2236,4.0,110,9.0,86.0,5800,27,33,7895.0
+226,volkswagen dasher,Richard Hampton,richardhampton@hotmail.com,"366 Cook Lane
+New Natalie, MN 93490",2020-02-25,GB92UEAG8806**********,gas,std,four,wagon,fwd,front,100.4,aqua,183.1,66.9,55.1,2563,4.0,109,9.0,88.0,5500,25,31,12290.0
+227,,Thomas Wolfe,thomas.wolfe@gmail.com,"USCGC Flynn
+FPO AA 75403",2015-03-13,GB61FWTG7740**********,,std,four,,rwd,front,103.5,teal,,66.9,55.7,3230,6.0,209,8.0,,5400,16,22,31048.0
+228,porsche cayenne,Terry Whitney,terrywhitney@hotmail.com,"7472 Nelson Dam
+East Debbiestad, NM 56624",2018-02-16,GB32YBBT1875**********,gas,std,two,hardtop,rwd,rear,89.5,black,168.9,65.0,51.6,2756,6.0,194,9.5,207.0,5900,17,25,34028.0
+229,isuzu MU-X,Lori Cardenas,loricardenas@hotmail.com,"6108 Kathryn Mountain Suite 940
+Port Steven, GA 25982",2022-02-22,GB60SUTE8609**********,gas,std,four,sedan,rwd,front,94.3,gray,170.7,61.8,53.5,2337,4.0,111,8.5,78.0,4800,24,29,6785.0
+230,vw dasher,Rodney Brown,rodney.brown@hotmail.com,"5361 Arthur Harbors Apt. 986
+Myersburgh, NE 23226",2018-07-03,GB55MFJV4077**********,gas,std,two,convertible,fwd,front,94.5,olive,159.3,64.2,55.6,2254,4.0,109,8.5,90.0,5500,24,29,11595.0
+231,honda civic,Anthony Moses,anthony.moses@yahoo.com,"2093 Michael Cove Apt. 067
+Valdezview, MI 63843",2021-07-05,GB02YEJU7131**********,gas,std,two,hatchback,fwd,,93.7,navy,150.0,64.0,52.6,1837,,79,10.1,60.0,5500,38,42,5408.0
+232,mitsubishi mirage g4,Lawrence Hinton,lawrencehinton@gmail.com,"0559 Rodriguez Skyway Suite 415
+Lake Heiditown, IN 73550",2022-09-20,GB46PQRD1144**********,gas,turbo,two,hatchback,fwd,front,95.9,olive,173.2,66.3,50.2,2926,4.0,156,7.0,145.0,5000,19,24,14489.0
+233,buick electra 225 custom,Gregory Gibson,gregorygibson@yahoo.com,"17656 Wright Lights
+Port Traci, SC 27735",2022-04-27,GB72LVUW9008**********,diesel,turbo,four,sedan,rwd,front,110.0,green,190.9,70.3,56.5,3515,5.0,183,21.5,123.0,4350,22,25,25552.0
+234,honda civic,Shawn Pena,shawnpena@hotmail.com,"357 Faulkner Lane Suite 832
+Lake Sarah, AL 11321",2021-10-25,GB94MGCA0223**********,gas,std,two,hatchback,fwd,front,86.6,blue,144.6,63.9,50.8,1713,4.0,92,9.6,58.0,4800,49,54,6479.0
+235,nissan teana,Christopher Porter,christopherporter@hotmail.com,"2104 Gonzales Radial Suite 749
+Kathychester, DE 11377",2022-01-09,GB26NAMP9704**********,gas,std,two,hatchback,rwd,,91.3,purple,170.7,67.9,49.7,3071,6.0,181,9.0,160.0,5200,19,25,17331.0
+236,subaru dl,Denise Walker,denise.walker@gmail.com,"31200 Lisa Plains Suite 498
+West Jennifer, NH 35782",2016-05-05,GB56RQGT7445**********,gas,turbo,four,wagon,4wd,front,96.9,white,173.6,65.4,54.9,2650,4.0,108,7.7,111.0,4800,23,23,11694.0
+237,honda prelude,Christopher Harding,christopher.harding@yahoo.com,"5519 Riley Summit Apt. 513
+Jasonstad, KY 53067",2018-08-11,GB20PLFM1761**********,gas,std,four,sedan,fwd,front,96.5,black,175.4,65.2,54.1,2304,4.0,110,9.0,86.0,5800,27,33,8845.0
+238,isuzu D-Max ,Nichole Dillon,nicholedillon@gmail.com,"129 Cox Inlet Suite 349
+North Ricky, KS 33189",2022-04-25,GB41ZQKZ2778**********,gas,std,two,sedan,fwd,front,94.5,aqua,155.9,63.6,52.0,1874,4.0,90,9.6,70.0,5400,38,43,8916.5
+239,nissan juke,Gerald Wilson,gerald.wilson@gmail.com,"Unit 9494 Box 0225
+DPO AE 71430",2015-02-13,GB68QDUB8981**********,gas,std,two,hatchback,fwd,front,94.5,navy,165.6,63.8,53.3,2028,4.0,97,9.4,69.0,5200,31,37,7799.0
+240,mazda glc deluxe,Robert Osborne,robert.osborne@yahoo.com,"74202 Atkins Cliff Suite 126
+Lake Ronaldfort, NC 72294",2020-04-05,GB64FYWJ6502**********,gas,std,four,sedan,fwd,front,93.1,maroon,166.8,64.2,54.1,1950,4.0,91,9.0,68.0,5000,31,38,7395.0
+241,volkswagen type 3,Kelly Cook,kellycook@yahoo.com,"10091 Tiffany Expressway
+North Nathaniel, SC 77470",2018-09-06,GB96KBQO3167**********,gas,std,four,sedan,fwd,front,97.3,navy,171.7,65.5,55.7,2212,4.0,109,9.0,85.0,5250,27,34,8195.0
+242,,Hannah Davis,hannah.davis@gmail.com,"013 Allen Spurs Apt. 359
+East Veronica, PR 30469",2019-10-07,GB29KTVT0789**********,,turbo,two,,fwd,front,96.3,blue,173.0,65.4,49.4,2370,4.0,110,7.5,,5500,23,30,9978.0
+243,bmw z4,Sarah Smith,sarahsmith@yahoo.com,"48889 Deleon Square
+South Aaron, UT 20573",2021-09-23,GB70DUZB1172**********,gas,std,four,sedan,rwd,front,103.5,white,189.0,66.9,55.7,3055,6.0,164,9.0,121.0,4250,20,25,24565.0
+244,nissan kicks,Rhonda Grant,rhondagrant@gmail.com,"104 Valdez Neck
+Johnsonmouth, AK 90570",2015-01-22,GB12LNDW6015**********,gas,turbo,two,hatchback,rwd,front,91.3,aqua,170.7,67.9,49.7,3139,6.0,181,7.8,200.0,5200,17,23,19699.0
+245,chevrolet impala,Heather Avila,heatheravila@hotmail.com,"1471 Black Plaza
+Lake Victoria, MA 54848",2016-04-12,GB47HYSA4739**********,gas,std,two,hatchback,fwd,front,88.4,yellow,141.1,60.3,53.2,1488,3.0,61,9.5,48.0,5100,47,53,5151.0
