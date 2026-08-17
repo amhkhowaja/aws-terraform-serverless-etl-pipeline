@@ -19,8 +19,8 @@ TEST_ENV := AWS_ACCESS_KEY_ID=test AWS_SECRET_ACCESS_KEY=test AWS_DEFAULT_REGION
 
 .PHONY: help venv build fmt validate init test \
         floci-up floci-down apply-floci upload-floci verify-floci logs-floci destroy-floci \
-        apply-aws upload-aws verify-aws logs-aws destroy-aws \
-        notebook notebook-run demo-floci demo-aws clean
+        apply-aws upload-aws verify-aws logs-aws destroy-aws verify-clean \
+        notebook notebook-run notebook-run-aws demo-floci demo-aws clean
 
 help:
 	@echo "Setup"
@@ -44,11 +44,13 @@ help:
 	@echo "  make verify-aws     show the curated object and its metadata"
 	@echo "  make logs-aws       tail the lambda log"
 	@echo "  make destroy-aws    tear down the aws stack"
+	@echo "  make verify-clean   confirm nothing billable remains in aws"
 	@echo "  make demo-aws       build, apply, upload and verify in one go"
 	@echo ""
 	@echo "Notebook"
 	@echo "  make notebook       open the notebook in jupyter lab"
-	@echo "  make notebook-run   execute the notebook headlessly"
+	@echo "  make notebook-run   execute the notebook headlessly against floci"
+	@echo "  make notebook-run-aws execute the notebook headlessly against aws"
 	@echo ""
 	@echo "Terraform"
 	@echo "  make init           terraform init"
@@ -126,7 +128,7 @@ logs-floci:
 
 destroy-floci:
 	$(TF) workspace select default
-	$(TF) destroy -var-file=env/floci.tfvars
+	$(TF) destroy $(APPROVE) -var-file=env/floci.tfvars
 
 apply-aws: init
 	$(TF) workspace select aws || $(TF) workspace new aws
@@ -153,7 +155,16 @@ logs-aws:
 
 destroy-aws:
 	$(TF) workspace select aws
-	$(CLOUD_ENV) $(TF) destroy -var-file=env/aws.tfvars
+	$(CLOUD_ENV) $(TF) destroy $(APPROVE) -var-file=env/aws.tfvars
+
+verify-clean:
+	@echo "terraform state : $$($(TF) state list 2>/dev/null | wc -l | tr -d ' ') resources"
+	@echo "s3 buckets      : $$($(CLOUD_ENV) aws s3 ls 2>/dev/null | grep -c car-sales)"
+	@echo "sqs queues      : $$($(CLOUD_ENV) aws sqs list-queues --query 'QueueUrls' --output text 2>/dev/null | grep -c car-sales)"
+	@echo "lambda funcs    : $$($(CLOUD_ENV) aws lambda list-functions --query 'Functions[].FunctionName' --output text 2>/dev/null | grep -c car-sales)"
+	@echo "log groups      : $$($(CLOUD_ENV) aws logs describe-log-groups --query 'logGroups[].logGroupName' --output text 2>/dev/null | grep -c car-sales)"
+	@echo "iam roles       : $$($(CLOUD_ENV) aws iam list-roles --query 'Roles[].RoleName' --output text 2>/dev/null | grep -c car-sales)"
+	@echo "all zero means nothing billable remains"
 
 notebook:
 	$(FLOCI_ENV) $(JUPYTER) lab $(NOTEBOOK)
@@ -161,6 +172,12 @@ notebook:
 notebook-run:
 	$(FLOCI_ENV) $(JUPYTER) nbconvert --to notebook --execute --inplace \
 	  --ExecutePreprocessor.timeout=900 $(NOTEBOOK)
+
+notebook-run-aws:
+	$(TF) workspace select aws
+	@bucket=$$($(TF) output -raw curated_bucket); \
+	$(CLOUD_ENV) CURATED_ZONE_BUCKET=$$bucket $(JUPYTER) nbconvert --to notebook --execute \
+	  --inplace --ExecutePreprocessor.timeout=900 $(NOTEBOOK)
 
 demo-floci:
 	@curl -s -o /dev/null --max-time 3 $(FLOCI_ENDPOINT) || floci start
